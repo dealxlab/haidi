@@ -1,6 +1,6 @@
 # haidi
 
-_Artificially Intelligent Data Integration for Data Lakes_
+_Artificially Intelligent Big Data Integration for Data Lakes_
 
 ## What is it?
 
