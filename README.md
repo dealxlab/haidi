@@ -39,3 +39,7 @@ We shall maintain a list of links that helped develop the product
 ## Get Involved
 
 If you would like more information on how to participate to this project, please contact the [project lead](https://github.com/vladimirghetau/)
+
+## Acknowledgements
+
+Hands graphic by [Freepik](http://www.flaticon.com/authors/freepik), licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/), made with [Logo Maker](http://logomakr.com).
