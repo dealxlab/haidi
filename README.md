@@ -1,6 +1,8 @@
 # haidi
 
-_Artificially Intelligent Big Data Integration for Data Lakes_
+![haidi logo](https://github.com/vladimirghetau/haidi/blob/master/logo_small.png?raw=true)
+
+_Haidi is "the" Artificially Intelligent Big Data Integration Tool for Data Lakes_
 
 ## What is it?
 
@@ -39,3 +41,7 @@ We shall maintain a list of links that helped develop the product
 ## Get Involved
 
 If you would like more information on how to participate to this project, please contact the [project lead](https://github.com/vladimirghetau/)
+
+## Acknowledgements
+
+Hands graphic by [Freepik](http://www.flaticon.com/authors/freepik), licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/), made with [Logo Maker](http://logomakr.com).
