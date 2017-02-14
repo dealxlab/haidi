@@ -1,3 +1,5 @@
+![haidi logo](https://github.com/dealxlab/haidi/blob/master/logo_small.png?raw=true)
+
 # haidi
 
 _Artificially Intelligent Big Data Integration for Data Lakes_
