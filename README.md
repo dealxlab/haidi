@@ -1,8 +1,8 @@
 # haidi
 
-_Haidi is "the" Artificially Intelligent Big Data Integration Tool for Data Lakes_
+![haidi logo](https://github.com/vladimirghetau/haidi/blob/master/logo_small.png?raw=true)
 
-![haidi logo](https://github.com/dealxlab/haidi/blob/master/logo_small.png?raw=true)
+_Haidi is "the" Artificially Intelligent Big Data Integration Tool for Data Lakes_
 
 ## What is it?
 
