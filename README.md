@@ -44,6 +44,12 @@ Decisions to be made:
  * Architecture: RUP (UML based)
  * Libraries: identify a business rules library for Python
 
+## CLI Tools
+
+More will be added as we develop them iterativelly (initially mocks, looking forward to add more meat to the code as the time goes by).
+ * [Cataloguing](https://github.com/dealxlab/haidi/blob/master/bin/catalogue.md)
+ * Machine Learning: todo next
+
 ## Researchers, Documentation
 
 We shall maintain a list of links that helped develop the product
