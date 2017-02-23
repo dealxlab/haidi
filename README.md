@@ -69,6 +69,8 @@ Sample usage:
 
 ## Get Involved
 
+Please lookup for "todo" inside the project. If you want to dive into code, just read the .md file having the same name as the CLI tool itself, and you'll see the plan in there on what needs to be done.
+
 If you would like more information on how to participate to this project, please contact the [project lead](https://github.com/vladimirghetau/)
 
 ## Acknowledgements
