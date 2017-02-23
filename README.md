@@ -28,6 +28,8 @@ Decisions made until now (Subject to change if required):
  * __14th Feb 2017__
   * Project Domain Area Scope
   * Programming Language: Python
+ * __20th Feb 2017__
+  * Basic 1st iteration of working version of a cataloguing system (File System and S3): this will be used to collect all the meta data from various sources in order to further analyse the functional and non-functional requirements. We would like to ask as many members to volunteer and collect meta-data that can be shared with our team in order to grow the product.
  
 Decisions to be made: 
  * License choice (Apache, MIT, etc, etc) - looking for contributors
