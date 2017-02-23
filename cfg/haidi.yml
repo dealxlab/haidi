@@ -1,0 +1,13 @@
+app:
+    version: 0.0.1
+aws:
+    s3:
+        AWS_SECRET_ACCESS_KEY:      "<AWS User Access Key ID>"
+        AWS_SECRET_ACCESS_KEY:  "<AWS Secret Access Key>"
+catalogue:
+    extensions: 
+        - sql
+        - txt
+        - csv
+        - json
+        - dat
