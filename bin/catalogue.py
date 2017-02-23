@@ -56,13 +56,16 @@ def indexS3(s3dw):
     # of fils inside them is too large, we might have problems.
 
     cache_path = '../cache/'+ md5.new(s3dw).hexdigest() +'.metadata'
-    
+
     # delete the file first, we want to add the metadata from scratch, every time
     # for now, not best practice, but again, this is only a mock for now
     try:
         os.remove(cache_path)
     except OSError:
         pass
+    
+    # add the path which was scanned to the metadata file
+    saveMetaData(s3dw +'\n---\n',cache_path)
     
     # bucket / folder extraction
     s3path = urlparse(s3dw)
@@ -98,7 +101,7 @@ def indexS3(s3dw):
         if not curr_file.endswith('/'):
             file_handle = haidiBucket.lookup(curr_file)
             meta_data = parseHeaderDataOnS3(file_handle)
-            saveMetaData(meta_data,cache_path)
+            saveMetaData(curr_file +'\n'+ meta_data,cache_path)
             idxed_cnt += 1
             
     print 'Indexing DONE, '+ str(idxed_cnt) +' objects indexed!'
