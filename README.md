@@ -19,7 +19,14 @@ Got the data lake in place, all the data is in, but nothing makes sense.
  * *Autointegration*: the ability to integrate nonhomogenous datasets automatically, and be able to offer a prediction score for each business operation (in advance, real time)
  * *Automatic business intelligence extraction*: we would ideally like to maintain a database of libraries / modules which we keep building, designed specifically for each industry
  * *Automatic reporting*: a generic, basic, extendable reporting system which does not need human input, but maybe generic rules (out of the box), or custom business rules (customisable by each data lake owner)
- 
+
+## Requirements
+
+ * Git
+ * Python 2.7+
+ * pip
+ * If your DW uses S3, get a user with Read-Only permissions (key, secret)
+ * No need for S3 if you're using the local File System
 
 ## Participate!
 
